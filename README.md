@@ -20,6 +20,7 @@
 )
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1k1t-a&layout=compact&theme=tokyonight)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1k1t-a)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1k1t-a&hide=contribs,prs)
 
 
 ---
