@@ -17,9 +17,9 @@
 ## 📊 GitHub Статистика:
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1k1t-a&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1k1t-a&layout=compact&theme=neon)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1k1t-a&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1k1t-a&show_icons=true&theme=neon)
 
 
 
