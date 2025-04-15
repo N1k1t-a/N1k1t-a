@@ -1,7 +1,7 @@
 # 👋 Привет! Меня зовут Никита
 
 Я студент, интересуюсь веб-разработкой и программированием в целом.
-На данный момент лично изучаю Python
+На данный момент лично изучаю Python.
 В университете получааю базу по языкам C и C++.
 
 ---
@@ -16,7 +16,8 @@
 
 ## 📊 GitHub Статистика:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N1k1t-a&show_icons=true&theme=default)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N1k1t-a&show_icons=true&theme=default)](https://github-readme-stats.vercel.app/api?username=N1k1t-a&show_icons=true&theme=radical
+)
 
 ---
 
