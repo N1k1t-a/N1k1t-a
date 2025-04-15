@@ -1,20 +1,27 @@
-## 👋 Привет! Я Никита
+# 👋 Привет! Меня зовут Никита
 
-🔹 Начинающий разработчик  
-🔹 Пишу на Python, C, немного FastAPI  
-🔹 Интересуюсь бэкендом, API и тестированием  
-🔹 Люблю разбираться в новых технологиях  
-
----
-
-## 🧰 Технологии, с которыми я работаю:
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/-C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+Я студент, интересуюсь веб-разработкой и программированием в целом.
+На данный момент лично изучаю Python
+В университете получааю базу по языкам C и C++.
 
 ---
 
-## 📈 Моя статистика:
+## 🧰 Используемые мною языки:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N1k1t-a&show_icons=true&theme=tokyonight)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+---
+
+## 📊 GitHub Статистика:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N1k1t-a&show_icons=true&theme=default)
+
+---
+
+## 📫 Связь:
+
+- 📬 Почта: [nkttelegin@gmail.com](mailto:nkttelegin@gmail.com)  
+- Telegram: [@N_i_k_i_t_o_c_h_k_a](https://t.me/N_i_k_i_t_o_c_h_k_a)  
+- Instagram: [nkttelegin](https://www.instagram.com/nkttelegin/)
