@@ -24,6 +24,10 @@
 
 
 ---
+[![trophy](https://github-profile-trophy.vercel.app/?username=N1k1t-a&theme=darkhub&no-frame=true&margin-w=5)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=N1k1t-a&theme=tokyonight)](https://git.io/streak-stats)
+
 
 ## 📫 Связь:
 
