@@ -24,6 +24,6 @@
 
 ## 📫 Связь:
 
-- 📬 Почта: [nkttelegin@gmail.com](mailto:nkttelegin@gmail.com)  
+- Почта: [nkttelegin@gmail.com](mailto:nkttelegin@gmail.com)  
 - Telegram: [@N_i_k_i_t_o_c_h_k_a](https://t.me/N_i_k_i_t_o_c_h_k_a)  
 - Instagram: [nkttelegin](https://www.instagram.com/nkttelegin/)
