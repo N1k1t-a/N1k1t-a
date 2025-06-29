@@ -1,20 +1,4 @@
-# 👋 Привет! Меня зовут Никита
-
-Я студент, интересуюсь веб-разработкой и программированием в целом.
-На данный момент лично изучаю Python.
-В университете получаю базу по языкам C и C++.
-
----
-
-## 🧰 Языки, которые я изучаю:
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
----
-
-## 📊 GitHub Статистика:
+# 📊 GitHub Статистика:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1k1t-a&show_icons=true&theme=neon)
 ---
