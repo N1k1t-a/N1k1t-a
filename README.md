@@ -1,8 +1,8 @@
 # 📊 GitHub Статистика:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=N1k1t-a&show_icons=true&theme=neon)
+![Stats](https://github-readme-stats.vercel.app/api?username=N1k1t-a&theme=dark&show_icons=true)
 ---
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=N1k1t-a&layout=compact&theme=neon)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N1k1t-a&layout=compact)
 
 ---
 
