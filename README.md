@@ -6,7 +6,7 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=N1k1t-a&theme=react-dark&hide_border=true&area=true)
 
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=N1k1t-a&layout=compact&theme=dark&hide_border=true)
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=N1k1t-a&theme=github_dark)
 
 </div>
 
